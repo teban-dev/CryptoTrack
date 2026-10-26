@@ -80,8 +80,3 @@ Si se intenta entrar a una ruta privada sin sesión, RequireAuth redirige a /log
 - Compra/venta, historial, watchlist y snapshots: estado en memoria; se pierde al recargar.
 - Asistente IA: reglas simples sobre los datos del portafolio (services/aiAssistant.js).
   En Fase II -> llamada a un modelo de lenguaje desde el backend.
-
-=====================================================================
-5. PENDIENTES PARA COMPLETAR ANTES DE ENTREGAR
-=====================================================================
-- Multimedia (video y sonido) del enunciado de la Fase I: no incluido.
