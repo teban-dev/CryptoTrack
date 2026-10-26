@@ -83,3 +83,5 @@ Si se intenta entrar a una ruta privada sin sesión, RequireAuth redirige a /log
 - Compra/venta, historial, watchlist y snapshots: estado en memoria; se pierde al recargar.
 - Asistente IA: reglas simples sobre los datos del portafolio (services/aiAssistant.js).
   En Fase II -> llamada a un modelo de lenguaje desde el backend.
+
+It's still missing the BACKEND using the geckoAPI for the tracking of the crypto currencies
